@@ -1,30 +1,18 @@
-# Real-Time Chat Application (Python)
+# Chat Application
 
-## Description
-This project is a Real-Time Chat Application developed using Python. 
-It allows multiple users to communicate with each other through a simple chat interface using networking concepts.
+## Objective
+To create a chat application for communication between multiple users using socket programming.
 
-## Features
-- Real-time messaging
-- Multiple users can connect
-- Client-server communication
-- Simple terminal-based chat interface
+## Steps Performed
+- Created server-side socket connection.
+- Developed client-side communication script.
+- Enabled message sending and receiving.
+- Tested chat communication between clients.
 
-## Technologies Used
+## Tools Used
 - Python
-- Socket programming
-- Networking concepts
+- Socket Programming
+- VS Code
 
-## How to Run
-1. Start the server:
-   python server.py
-
-2. Start the client:
-   python client.py
-
-3. Connect multiple clients to chat in real time.
-
-## Author
-Vedha Sri  
-Python Development Internship  
-Oasis Infobyte
+## Outcome
+Successfully built a chat application that allows multiple users to communicate through server-client architecture.
